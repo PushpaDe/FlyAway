@@ -1,0 +1,17 @@
+com\flyaway\dao\AirlineDao.class
+com\flyaway\models\PassengerDetails.class
+com\flyaway\dao\CitiesDao.class
+com\flyaway\dao\UserDao.class
+com\flyaway\web\City.class
+com\flyaway\models\Cities.class
+com\flyaway\models\BookingDetails.class
+com\flyaway\models\User.class
+com\flyaway\models\Airline.class
+com\flyaway\web\SearchFlight.class
+com\flyaway\models\Flight.class
+com\flyaway\web\Login.class
+com\flyaway\web\CityAjax.class
+com\flyaway\utils\HibernateUtils.class
+com\flyaway\dao\FlightDao.class
+com\flyaway\dao\RegistrationDao.class
+com\flyaway\web\Registration.class
